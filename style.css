@@ -1,0 +1,37 @@
+*{padding: 0;margin: 0;}
+.container{height: 100vh;
+            width: 100vw;
+            color:#ffffff;
+            background:#202020;
+            text-align: center}
+.love{
+    padding-top: 20%;
+}
+h2{font-size: 72px;margin-bottom: 30px;}
+.love span{color:#890909;}
+.love a{text-decoration: none;
+    background: #ffffff;
+    padding: 5px;
+    margin:5px 10px;
+    border:3px solid #202020;
+    border-radius:10px;
+}
+.Also{
+    padding-top: 15%;
+}
+h2{font-size: 20px;margin-bottom: 20px;}
+.Also span{color:#ffffff;}
+.Also a{text-decoration: none;
+    background: #ffffff;
+    padding: 5px;
+    margin:5px 10px;
+    border:3px solid #202020;
+    border-radius:10px;
+}
+.Yes{
+    padding-top: 25%;
+}
+#Yes{color:#890909;}
+#Also{color:rgb(19, 19, 19);}
+img{height: 20px;width: 20px;}
+
